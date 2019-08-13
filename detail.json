@@ -1,0 +1,719 @@
+{
+    "category": [
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 914,
+            "id": 1,
+            "start_frame": 865,
+            "total_num_of_frames": 49
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 1222,
+            "id": 1,
+            "start_frame": 1178,
+            "total_num_of_frames": 44
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 2182,
+            "id": 1,
+            "start_frame": 1301,
+            "total_num_of_frames": 881
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 2430,
+            "id": 2,
+            "start_frame": 2346,
+            "total_num_of_frames": 84
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 2637,
+            "id": 2,
+            "start_frame": 2609,
+            "total_num_of_frames": 28
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 4217,
+            "id": 2,
+            "start_frame": 4069,
+            "total_num_of_frames": 148
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 4429,
+            "id": 3,
+            "start_frame": 4392,
+            "total_num_of_frames": 37
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 4590,
+            "id": 3,
+            "start_frame": 4562,
+            "total_num_of_frames": 28
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 6310,
+            "id": 3,
+            "start_frame": 6270,
+            "total_num_of_frames": 40
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 6370,
+            "id": 4,
+            "start_frame": 6346,
+            "total_num_of_frames": 24
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 6640,
+            "id": 4,
+            "start_frame": 6601,
+            "total_num_of_frames": 39
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 7012,
+            "id": 5,
+            "start_frame": 6898,
+            "total_num_of_frames": 114
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 7097,
+            "id": 5,
+            "start_frame": 7068,
+            "total_num_of_frames": 29
+        },
+        {
+            "category": "picking_up",
+            "category_code": 4,
+            "end_frame": 7128,
+            "id": 1,
+            "start_frame": 7098,
+            "total_num_of_frames": 30
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 7391,
+            "id": 6,
+            "start_frame": 7365,
+            "total_num_of_frames": 26
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 7515,
+            "id": 4,
+            "start_frame": 7451,
+            "total_num_of_frames": 64
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 7836,
+            "id": 6,
+            "start_frame": 7786,
+            "total_num_of_frames": 50
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 8225,
+            "id": 7,
+            "start_frame": 8187,
+            "total_num_of_frames": 38
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 8475,
+            "id": 5,
+            "start_frame": 8333,
+            "total_num_of_frames": 142
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 10856,
+            "id": 6,
+            "start_frame": 10659,
+            "total_num_of_frames": 197
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 11480,
+            "id": 7,
+            "start_frame": 11193,
+            "total_num_of_frames": 287
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 11693,
+            "id": 7,
+            "start_frame": 11670,
+            "total_num_of_frames": 23
+        },
+        {
+            "category": "picking_up",
+            "category_code": 4,
+            "end_frame": 11783,
+            "id": 2,
+            "start_frame": 11746,
+            "total_num_of_frames": 37
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 11910,
+            "id": 8,
+            "start_frame": 11892,
+            "total_num_of_frames": 18
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 11999,
+            "id": 9,
+            "start_frame": 11989,
+            "total_num_of_frames": 10
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 12160,
+            "id": 8,
+            "start_frame": 12058,
+            "total_num_of_frames": 102
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 12927,
+            "id": 9,
+            "start_frame": 12593,
+            "total_num_of_frames": 334
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 13119,
+            "id": 10,
+            "start_frame": 13067,
+            "total_num_of_frames": 52
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 13140,
+            "id": 8,
+            "start_frame": 13120,
+            "total_num_of_frames": 20
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 13579,
+            "id": 10,
+            "start_frame": 13537,
+            "total_num_of_frames": 42
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 13938,
+            "id": 11,
+            "start_frame": 13923,
+            "total_num_of_frames": 15
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 18880,
+            "id": 11,
+            "start_frame": 18121,
+            "total_num_of_frames": 759
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 18925,
+            "id": 9,
+            "start_frame": 18893,
+            "total_num_of_frames": 32
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 19838,
+            "id": 12,
+            "start_frame": 19433,
+            "total_num_of_frames": 405
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 19987,
+            "id": 10,
+            "start_frame": 19862,
+            "total_num_of_frames": 125
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 20097,
+            "id": 12,
+            "start_frame": 20073,
+            "total_num_of_frames": 24
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 21925,
+            "id": 11,
+            "start_frame": 21822,
+            "total_num_of_frames": 103
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 22332,
+            "id": 13,
+            "start_frame": 22287,
+            "total_num_of_frames": 45
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 23953,
+            "id": 13,
+            "start_frame": 23576,
+            "total_num_of_frames": 377
+        },
+        {
+            "category": "picking_up",
+            "category_code": 4,
+            "end_frame": 24099,
+            "id": 3,
+            "start_frame": 24076,
+            "total_num_of_frames": 23
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 24148,
+            "id": 12,
+            "start_frame": 24125,
+            "total_num_of_frames": 23
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 24265,
+            "id": 14,
+            "start_frame": 24237,
+            "total_num_of_frames": 28
+        },
+        {
+            "category": "picking_up",
+            "category_code": 4,
+            "end_frame": 24271,
+            "id": 4,
+            "start_frame": 24248,
+            "total_num_of_frames": 23
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 24590,
+            "id": 15,
+            "start_frame": 24565,
+            "total_num_of_frames": 25
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 26370,
+            "id": 14,
+            "start_frame": 26316,
+            "total_num_of_frames": 54
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 26603,
+            "id": 13,
+            "start_frame": 26584,
+            "total_num_of_frames": 19
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 26737,
+            "id": 14,
+            "start_frame": 26711,
+            "total_num_of_frames": 26
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 26828,
+            "id": 16,
+            "start_frame": 26808,
+            "total_num_of_frames": 20
+        },
+        {
+            "category": "picking_up",
+            "category_code": 4,
+            "end_frame": 27044,
+            "id": 5,
+            "start_frame": 27011,
+            "total_num_of_frames": 33
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 28642,
+            "id": 15,
+            "start_frame": 28446,
+            "total_num_of_frames": 196
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 29125,
+            "id": 15,
+            "start_frame": 29087,
+            "total_num_of_frames": 38
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 29268,
+            "id": 17,
+            "start_frame": 29244,
+            "total_num_of_frames": 24
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 30174,
+            "id": 16,
+            "start_frame": 29788,
+            "total_num_of_frames": 386
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 30424,
+            "id": 16,
+            "start_frame": 30382,
+            "total_num_of_frames": 42
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 30493,
+            "id": 17,
+            "start_frame": 30460,
+            "total_num_of_frames": 33
+        },
+        {
+            "category": "picking_up",
+            "category_code": 4,
+            "end_frame": 30592,
+            "id": 6,
+            "start_frame": 30559,
+            "total_num_of_frames": 33
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 30627,
+            "id": 18,
+            "start_frame": 30611,
+            "total_num_of_frames": 16
+        },
+        {
+            "category": "picking_up",
+            "category_code": 4,
+            "end_frame": 31715,
+            "id": 8,
+            "start_frame": 31715,
+            "total_num_of_frames": 0
+        },
+        {
+            "category": "picking_up",
+            "category_code": 4,
+            "end_frame": 31730,
+            "id": 7,
+            "start_frame": 31708,
+            "total_num_of_frames": 22
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 31922,
+            "id": 17,
+            "start_frame": 31881,
+            "total_num_of_frames": 41
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 32343,
+            "id": 18,
+            "start_frame": 32319,
+            "total_num_of_frames": 24
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 32681,
+            "id": 19,
+            "start_frame": 32642,
+            "total_num_of_frames": 39
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 33269,
+            "id": 18,
+            "start_frame": 32916,
+            "total_num_of_frames": 353
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 33631,
+            "id": 19,
+            "start_frame": 33597,
+            "total_num_of_frames": 34
+        },
+        {
+            "category": "picking_up",
+            "category_code": 4,
+            "end_frame": 33733,
+            "id": 9,
+            "start_frame": 33706,
+            "total_num_of_frames": 27
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 33820,
+            "id": 20,
+            "start_frame": 33796,
+            "total_num_of_frames": 24
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 34221,
+            "id": 19,
+            "start_frame": 33857,
+            "total_num_of_frames": 364
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 34360,
+            "id": 20,
+            "start_frame": 34344,
+            "total_num_of_frames": 16
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 34489,
+            "id": 21,
+            "start_frame": 34463,
+            "total_num_of_frames": 26
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 34660,
+            "id": 21,
+            "start_frame": 34629,
+            "total_num_of_frames": 31
+        },
+        {
+            "category": "picking_up",
+            "category_code": 4,
+            "end_frame": 34802,
+            "id": 10,
+            "start_frame": 34781,
+            "total_num_of_frames": 21
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 36582,
+            "id": 20,
+            "start_frame": 36329,
+            "total_num_of_frames": 253
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 36682,
+            "id": 22,
+            "start_frame": 36596,
+            "total_num_of_frames": 86
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 36847,
+            "id": 22,
+            "start_frame": 36820,
+            "total_num_of_frames": 27
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 37318,
+            "id": 21,
+            "start_frame": 36916,
+            "total_num_of_frames": 402
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 37353,
+            "id": 23,
+            "start_frame": 37334,
+            "total_num_of_frames": 19
+        },
+        {
+            "category": "picking_up",
+            "category_code": 4,
+            "end_frame": 37613,
+            "id": 11,
+            "start_frame": 37591,
+            "total_num_of_frames": 22
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 38140,
+            "id": 23,
+            "start_frame": 38120,
+            "total_num_of_frames": 20
+        },
+        {
+            "category": "picking_up",
+            "category_code": 4,
+            "end_frame": 38233,
+            "id": 12,
+            "start_frame": 38197,
+            "total_num_of_frames": 36
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 38822,
+            "id": 22,
+            "start_frame": 38774,
+            "total_num_of_frames": 48
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 39034,
+            "id": 24,
+            "start_frame": 39009,
+            "total_num_of_frames": 25
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 39133,
+            "id": 25,
+            "start_frame": 39105,
+            "total_num_of_frames": 28
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 39157,
+            "id": 26,
+            "start_frame": 39145,
+            "total_num_of_frames": 12
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 39400,
+            "id": 24,
+            "start_frame": 39365,
+            "total_num_of_frames": 35
+        },
+        {
+            "category": "picking_up",
+            "category_code": 4,
+            "end_frame": 39509,
+            "id": 13,
+            "start_frame": 39490,
+            "total_num_of_frames": 19
+        },
+        {
+            "category": "ordering",
+            "category_code": 1,
+            "end_frame": 49206,
+            "id": 23,
+            "start_frame": 48918,
+            "total_num_of_frames": 288
+        },
+        {
+            "category": "paying",
+            "category_code": 2,
+            "end_frame": 49487,
+            "id": 27,
+            "start_frame": 49458,
+            "total_num_of_frames": 29
+        },
+        {
+            "category": "receiving",
+            "category_code": 3,
+            "end_frame": 49739,
+            "id": 25,
+            "start_frame": 49701,
+            "total_num_of_frames": 38
+        },
+        {
+            "category": "picking_up",
+            "category_code": 4,
+            "end_frame": 49766,
+            "id": 14,
+            "start_frame": 49741,
+            "total_num_of_frames": 25
+        }
+    ],
+    "folder_name": "folder56",
+    "number_customer": 24,
+    "total_frames_in_the_video": 56399
+}
