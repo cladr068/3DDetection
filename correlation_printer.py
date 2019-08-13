@@ -20,7 +20,7 @@ def creatThePointsGraph(annotation_file):
 	counterArmOverTheDesk =  np.zeros(len(annotation_file))
 
 	frameCount = 0
-	for frame in annotation_file:	#pour chaque frame
+	for frame in annotation_file:	 #pour chaque frame
 		current_frame = annotation_file[frame]['annotations'] #l'image actuelle
 		for anno in range(len(current_frame)): #pour chaque annotation dans la frame actuelle
 			current_annotations = current_frame[anno] #annotation actuelle
