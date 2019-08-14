@@ -2,7 +2,7 @@
 
 ## Required
 
-You'll need to have in the same directory 2 Json files. One is the output of the 3D Detection (called ArmOverTheDesk : **LINK**) and the other one come from the application Viva Statistics (called details : **LINK**).
+You'll need to have in the same directory 2 Json files. One is the output of the 3D Detection (called ArmOverTheDesk : **https://github.com/cladr068/3DActionsDetection**) and the other one come from the application Viva Statistics (called details : **LINK**).
 - Details from Viva statistics example :
 
 ![picture](img/img.png)
