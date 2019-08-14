@@ -27,3 +27,9 @@ Where `[category]` can be :
 You'll see the plot correlation for the action you want. When you quit the plot, you'll get the statistics from the files you entered like that : 
 
 ![picture](img/results.png)
+
+Legend of the plot :
+
+- Red : Arm **right** over the desk
+- Blue : Arm **left** over the desk
+- Gold : Action you selected. 
