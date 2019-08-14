@@ -26,3 +26,4 @@ Where `[category]` can be :
 
 You'll see the plot correlation for the action you want. When you quit the plot, you'll get the statistics from the files you entered like that : 
 
+![picture](img/results.png)
